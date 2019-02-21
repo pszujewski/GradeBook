@@ -695,10 +695,11 @@
       ]
     },
     "NUnit/3.11.0": {
-      "sha512": "zecrYxUA5p5w8AZ2bvbBbiUIcrQnZAVPrziNMSWMdcOi0D2Oe7yKUNivWPIQMcUwQDHmWtS/ijnD48ubU/eHZQ==",
+      "sha512": "BzGk+u02RCrysmLlSzD+okxzMQ8JRF4eFC/qijDJ8Y/FBdTrTkxkQyTFsYkG1o++pr7QpFAE4VDXDqIfZ/gBAg==",
       "type": "package",
       "path": "nunit/3.11.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "CHANGES.md",
         "LICENSE.txt",
@@ -735,23 +736,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/peterszujewski/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/peterszujewski/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/peterszujewski/projects/Grades/Grades/Grades.csproj",
+      "projectUniqueName": "/home/peterszujewski/projects/GradeBook/Grades/Grades.csproj",
       "projectName": "Grades",
-      "projectPath": "/Users/peterszujewski/projects/Grades/Grades/Grades.csproj",
-      "packagesPath": "/Users/peterszujewski/.nuget/packages/",
-      "outputPath": "/Users/peterszujewski/projects/Grades/Grades/obj/",
+      "projectPath": "/home/peterszujewski/projects/GradeBook/Grades/Grades.csproj",
+      "packagesPath": "/home/peterszujewski/.nuget/packages/",
+      "outputPath": "/home/peterszujewski/projects/GradeBook/Grades/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/peterszujewski/.config/NuGet/NuGet.Config"
+        "/home/peterszujewski/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
