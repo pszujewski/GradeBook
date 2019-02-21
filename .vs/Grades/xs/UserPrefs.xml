@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{BDDFE9FB-A537-4AAD-B263-7DAF7D0BA4F0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Grades.Test/Types/ReferenceTypeTests.cs">
+    <Files>
+      <File FileName="Grades/GradeBook.cs" Line="1" Column="1" />
+      <File FileName="Grades.Test/Types/ReferenceTypeTests.cs" Line="94" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Grades" expanded="True">
+            <Node name="Grades" expanded="True" />
+            <Node name="Grades.Tests" expanded="True">
+              <Node name="Types" expanded="True">
+                <Node name="ReferenceTypeTests.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Grades" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Grades.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Grades PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/peterszujewski/projects/Grades/Grades/GradeStatistics.cs" relfile="Grades/GradeStatistics.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

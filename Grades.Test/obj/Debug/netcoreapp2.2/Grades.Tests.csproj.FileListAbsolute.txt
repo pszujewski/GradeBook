@@ -1,0 +1,17 @@
+/Users/peterszujewski/projects/Grades/Grades.Test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/peterszujewski/projects/Grades/Grades.Test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/peterszujewski/projects/Grades/Grades.Test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/peterszujewski/projects/Grades/Grades.Test/bin/Debug/netcoreapp2.2/Grades.Tests.deps.json
+/Users/peterszujewski/projects/Grades/Grades.Test/bin/Debug/netcoreapp2.2/Grades.Tests.runtimeconfig.json
+/Users/peterszujewski/projects/Grades/Grades.Test/bin/Debug/netcoreapp2.2/Grades.Tests.runtimeconfig.dev.json
+/Users/peterszujewski/projects/Grades/Grades.Test/bin/Debug/netcoreapp2.2/Grades.Tests.dll
+/Users/peterszujewski/projects/Grades/Grades.Test/bin/Debug/netcoreapp2.2/Grades.Tests.pdb
+/Users/peterszujewski/projects/Grades/Grades.Test/obj/Debug/netcoreapp2.2/Grades.Tests.csproj.CoreCompileInputs.cache
+/Users/peterszujewski/projects/Grades/Grades.Test/obj/Debug/netcoreapp2.2/Grades.Tests.AssemblyInfoInputs.cache
+/Users/peterszujewski/projects/Grades/Grades.Test/obj/Debug/netcoreapp2.2/Grades.Tests.AssemblyInfo.cs
+/Users/peterszujewski/projects/Grades/Grades.Test/obj/Debug/netcoreapp2.2/Grades.Tests.dll
+/Users/peterszujewski/projects/Grades/Grades.Test/obj/Debug/netcoreapp2.2/Grades.Tests.pdb
+/Users/peterszujewski/projects/Grades/Grades.Test/bin/Debug/netcoreapp2.2/Grades.dll
+/Users/peterszujewski/projects/Grades/Grades.Test/bin/Debug/netcoreapp2.2/Grades.pdb
+/Users/peterszujewski/projects/Grades/Grades.Test/obj/Debug/netcoreapp2.2/Grades.Tests.csprojAssemblyReference.cache
+/Users/peterszujewski/projects/Grades/Grades.Test/obj/Debug/netcoreapp2.2/Grades.Tests.csproj.CopyComplete
